@@ -1,0 +1,40 @@
+.header{
+    background-color:blueviolet;
+    margin: 0px;
+    height: 80px;
+    text-align: center;
+    font-size: 50px;
+    padding:10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+.form{
+    background-color:aliceblue;
+    height: 80px;
+}
+.forminput{
+    margin:10px;
+    height: 30px;
+    width:300px;
+    border-radius: 20px;
+}
+.button{
+    border-radius: 5px;
+    background-color:cadetblue;
+    height: 30px;
+    width:50px;
+    font-size: 18px;
+}
+.para{
+    display:inline;
+    padding:10px;
+    font-size: 30px;
+    font-weight:bold;
+    margin:20px;
+}
+.button2{
+    border-radius: 5px;
+    background-color:cadetblue;
+    height: 30px;
+    width:50px
+}
